@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="1" hostname="acer" id="0" name="FabioTest" package="" skipped="0" tests="1" time="0.106" timestamp="2016-05-10T14:24:51">
+      <properties>
+          <property name="java.vendor" value="Oracle Corporation" />
+
+          <property name="env.SESSION_MANAGER" value="local/acer:@/tmp/.ICE-unix/2503,unix/acer:/tmp/.ICE-unix/2503" />
+
+          <property name="env.IM_CONFIG_PHASE" value="1" />
+
+          <property name="env.LIBOVERLAY_SCROLLBAR" value="0" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/home/ubuntu/eclipse/java-mars/eclipse/../../../.p2/pool/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/templates//" />
+
+          <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+
+          <property name="os.name" value="Linux" />
+
+          <property name="env.UPSTART_SESSION" value="unix:abstract=/com/ubuntu/upstart-session/1000/1816" />
+
+          <property name="sun.boot.class.path" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes" />
+
+          <property name="env.PWD" value="/home/ubuntu" />
+
+          <property name="env.XDG_SESSION_COOKIE" value="830cf0079f43ff088a1f35c25725a3b4-1462835210.904317-1151859144" />
+
+          <property name="env.LANG" value="en_GB.UTF-8" />
+
+          <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+
+          <property name="env.XDG_MENU_PREFIX" value="xfce-" />
+
+          <property name="ant.home" value="/home/ubuntu/.p2/pool/plugins/org.apache.ant_1.9.6.v201510161327" />
+
+          <property name="java.runtime.version" value="1.7.0_101-b00" />
+
+          <property name="env.DEFAULTS_PATH" value="/usr/share/gconf/xfce.default.path" />
+
+          <property name="env.UPSTART_EVENTS" value="started xsession" />
+
+          <property name="env.XDG_VTNR" value="8" />
+
+          <property name="env.DISPLAY" value=":0.0" />
+
+          <property name="env.GLADE_CATALOG_PATH" value=":" />
+
+          <property name="user.name" value="ubuntu" />
+
+          <property name="env.USER" value="ubuntu" />
+
+          <property name="env.SHELL" value="/bin/bash" />
+
+          <property name="env.DESKTOP_SESSION" value="xfce" />
+
+          <property name="env.XDG_DATA_DIRS" value="/usr/share/xfce:/usr/share/xfce4:/usr/local/share/:/usr/share/:/usr/share/mdm/:/usr/share" />
+
+          <property name="env.PATH" value="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games" />
+
+          <property name="env.XDG_CURRENT_DESKTOP" value="XFCE" />
+
+          <property name="user.language" value="en" />
+
+          <property name="env.XDG_SESSION_DESKTOP" value="xfce" />
+
+          <property name="sun.boot.library.path" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/amd64" />
+
+          <property name="env.TEXTDOMAIN" value="im-config" />
+
+          <property name="env.UPSTART_JOB" value="startxfce4" />
+
+          <property name="ant.project.default-target" value="build" />
+
+          <property name="env.SELINUX_INIT" value="YES" />
+
+          <property name="ant.project.name" value="Prova" />
+
+          <property name="java.version" value="1.7.0_101" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="env.DBUS_SESSION_BUS_ADDRESS" value="unix:abstract=/tmp/dbus-ctccox8Moq" />
+
+          <property name="sun.arch.data.model" value="64" />
+
+          <property name="env.SSH_AGENT_PID" value="2808" />
+
+          <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/endorsed" />
+
+          <property name="sun.cpu.isalist" value="" />
+
+          <property name="sun.jnu.encoding" value="UTF-8" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="env.MDM_LANG" value="en_GB.UTF-8" />
+
+          <property name="ECLIPSE_HOME" value="../../eclipse/java-mars/eclipse/" />
+
+          <property name="file.separator" value="/" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="51.0" />
+
+          <property name="env.GDMSESSION" value="xfce" />
+
+          <property name="user.country" value="GB" />
+
+          <property name="env.GNOME_KEYRING_PID" value="" />
+
+          <property name="java.home" value="/usr/lib/jvm/java-7-openjdk-amd64/jre" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="env.LOGNAME" value="ubuntu" />
+
+          <property name="ant.file" value="/home/ubuntu/workspace/Prova/build.xml" />
+
+          <property name="os.version" value="3.19.0-32-generic" />
+
+          <property name="path.separator" value=":" />
+
+          <property name="java.vm.version" value="24.95-b01" />
+
+          <property name="env.UPSTART_INSTANCE" value="" />
+
+          <property name="env.MDMSESSION" value="xfce" />
+
+          <property name="env.TEXTDOMAINDIR" value="/usr/share/locale/" />
+
+          <property name="ant.library.dir" value="/home/ubuntu/.p2/pool/plugins/org.apache.ant_1.9.6.v201510161327/lib" />
+
+          <property name="junit.output.dir" value="junit" />
+
+          <property name="env.SESSIONTYPE" value="" />
+
+          <property name="java.awt.printerjob" value="sun.print.PSPrinterJob" />
+
+          <property name="env.WINDOWPATH" value="8" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.X11.XToolkit" />
+
+          <property name="env.OXYGEN_DISABLE_INNER_SHADOWS_HACK" value="1" />
+
+          <property name="env.GLADE_MODULE_PATH" value=":" />
+
+          <property name="eclipse.pdebuild.scripts" value="/home/ubuntu/eclipse/java-mars/eclipse/../../../.p2/pool/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/scripts//" />
+
+          <property name="user.home" value="/home/ubuntu" />
+
+          <property name="target" value="1.7" />
+
+          <property name="env.JOB" value="dbus" />
+
+          <property name="java.specification.vendor" value="Oracle Corporation" />
+
+          <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib" />
+
+          <property name="java.vendor.url" value="http://java.oracle.com/" />
+
+          <property name="env.GDM_XSERVER_LOCATION" value="local" />
+
+          <property name="java.vm.vendor" value="Oracle Corporation" />
+
+          <property name="env.XDG_SEAT" value="seat0" />
+
+          <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on June 29 2015" />
+
+          <property name="java.class.path" value="/home/ubuntu/workspace/Prova/bin:/home/ubuntu/.p2/pool/plugins/org.junit_4.12.0.v201504281640/junit.jar:/home/ubuntu/.p2/pool/plugins/org.hamcrest.core_1.3.0.v201303031735.jar:/home/ubuntu/.p2/pool/plugins/org.apache.ant_1.9.6.v201510161327/lib/ant-launcher.jar:/home/ubuntu/.p2/pool/plugins/org.apache.ant_1.9.6.v201510161327/lib/ant.jar:/home/ubuntu/.p2/pool/plugins/org.apache.ant_1.9.6.v201510161327/lib/ant-junit.jar:/home/ubuntu/.p2/pool/plugins/org.apache.ant_1.9.6.v201510161327/lib/ant-junit4.jar" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner FabioTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/ubuntu/workspace/Prova/junit/TEST-FabioTest.xml crashfile=/home/ubuntu/workspace/Prova/junitvmwatcher666101849035870720.properties propsfile=/home/ubuntu/workspace/Prova/junit390594326251536791.properties" />
+
+          <property name="env.XDG_SESSION_ID" value="c2" />
+
+          <property name="env.MDM_XSERVER_LOCATION" value="local" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.7" />
+
+          <property name="sun.os.patch.level" value="unknown" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="debuglevel" value="source,lines,vars" />
+
+          <property name="env.HOME" value="/home/ubuntu" />
+
+          <property name="ant.file.type.Prova" value="file" />
+
+          <property name="env.ANT_HOME" value="/home/ubuntu/.p2/pool/plugins/org.apache.ant_1.9.6.v201510161327" />
+
+          <property name="java.io.tmpdir" value="/tmp" />
+
+          <property name="eclipse.pdebuild.home" value="/home/ubuntu/eclipse/java-mars/eclipse/../../../.p2/pool/plugins/org.eclipse.pde.build_3.9.100.v20150521-1524/.//" />
+
+          <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+
+          <property name="env.SSH_AUTH_SOCK" value="/tmp/ssh-n5Qjm7wRRn5k/agent.2804" />
+
+          <property name="ant.file.Prova" value="/home/ubuntu/workspace/Prova/build.xml" />
+
+          <property name="os.arch" value="amd64" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment" />
+
+          <property name="env.INSTANCE" value="" />
+
+          <property name="java.ext.dirs" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext:/usr/java/packages/lib/ext" />
+
+          <property name="env.XDG_RUNTIME_DIR" value="/run/user/1000" />
+
+          <property name="env.XAUTHORITY" value="/home/ubuntu/.Xauthority" />
+
+          <property name="env.SESSION" value="xfce" />
+
+          <property name="user.dir" value="/home/ubuntu/workspace/Prova" />
+
+          <property name="env.MANDATORY_PATH" value="/usr/share/gconf/xfce.mandatory.path" />
+
+          <property name="line.separator" value="&#xa;" />
+
+          <property name="java.vm.name" value="OpenJDK 64-Bit Server VM" />
+
+          <property name="env.GDK_CORE_DEVICE_EVENTS" value="1" />
+
+          <property name="basedir" value="/home/ubuntu/workspace/Prova" />
+
+          <property name="ant.java.version" value="1.7" />
+
+          <property name="env.GLADE_PIXMAP_PATH" value=":" />
+
+          <property name="ant.core.lib" value="/home/ubuntu/.p2/pool/plugins/org.apache.ant_1.9.6.v201510161327/lib/ant.jar" />
+
+          <property name="env.USERNAME" value="ubuntu" />
+
+          <property name="source" value="1.7" />
+
+          <property name="file.encoding" value="UTF-8" />
+
+          <property name="env.GPG_AGENT_INFO" value="/run/user/1000/keyring-CtcJkZ/gpg:0:1" />
+
+          <property name="java.specification.version" value="1.7" />
+
+          <property name="env.GNOME_KEYRING_CONTROL" value="/run/user/1000/keyring-CtcJkZ" />
+
+          <property name="ant.project.invoked-targets" value="FabioTest" />
+
+          <property name="env.XDG_CONFIG_DIRS" value="/etc/xdg/xdg-xfce:/usr/share/upstart/xdg:/etc/xdg:/etc/xdg" />
+
+      </properties>
+
+      <testcase classname="FabioTest" name="test" time="0.014">
+          <failure message="expected:&lt;pippo[2]&gt; but was:&lt;pippo[]&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;pippo[2]&gt; but was:&lt;pippo[]&gt;
+	at FabioTest.test(FabioTest.java:52)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+</testsuites>
