@@ -49,7 +49,7 @@ public class FabioTest {
 	@Test
 	public void test() {
 		
-		assertEquals("pippo2", f.getName());
+		assertEquals("pippo", f.getName());
 	}
 
 }

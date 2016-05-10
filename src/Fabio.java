@@ -4,9 +4,9 @@ public class Fabio {
 
 	private String name;
 	
-		public Fabio(String n)
+		public Fabio(String nn)
 		{
-			name = n;
+			name = nn;
 		}
 		
 		public String getName()
